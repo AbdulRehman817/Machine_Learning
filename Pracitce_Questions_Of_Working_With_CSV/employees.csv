@@ -1,0 +1,11 @@
+employee_id,name,department,age,salary,joining_date,active
+E001,Ayesha Khan,IT,24,85000,2023-01-15,Yes
+E002,Bilal Ahmed,HR,29,62000,2021-08-03,No
+E003,Sara Ali,Finance,31,91000,2020-11-20,Yes
+E004,Hamza Noor,IT,26,78000,2022-06-12,Yes
+E005,Zoya Malik,Marketing,23,55000,2024-02-01,No
+E006,Usman Raza,Finance,35,105000,2019-04-25,Yes
+E007,Hira Shah,HR,27,67000,2022-09-10,Yes
+E008,Daniyal Iqbal,Marketing,30,73000,2021-12-05,No
+E009,Maham Tariq,IT,28,88000,2020-03-17,Yes
+E010,Omar Farooq,Support,22,48000,2024-07-08,No
